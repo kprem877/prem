@@ -1,2 +1,2 @@
 # prem.github.io
-Static Site Generator
+My Jekyll Site
